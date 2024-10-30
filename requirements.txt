@@ -1,4 +1,6 @@
 jupyter==1.1.1
 matplotlib==3.9.2
-numpy==2.1.1
+numpy==1.26.4
 opencv-python==4.10.0.84
+cmake==3.25.2
+dlib==19.24.2
