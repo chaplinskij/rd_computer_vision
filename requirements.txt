@@ -6,3 +6,5 @@ opencv-contrib-python==4.10.0.84
 cmake==3.25.2
 dlib==19.24.2
 tensorflow==2.18.0
+pydot==3.0.3
+pydotplus==2.0.2
