@@ -8,3 +8,4 @@ dlib==19.24.2
 tensorflow==2.18.0
 pydot==3.0.3
 pydotplus==2.0.2
+pandas==2.2.3
